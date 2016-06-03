@@ -584,8 +584,8 @@
   position:absolute;
   left:901px;
   top:593px;
-  width:289px;
-  height:133px;
+  width:479px;
+  height:209px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
@@ -595,14 +595,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:289px;
-  height:133px;
+  width:479px;
+  height:209px;
 }
 #u47 {
   position:absolute;
   left:0px;
   top:0px;
-  width:289px;
+  width:479px;
   white-space:nowrap;
 }
 #u48 {
@@ -733,7 +733,7 @@
 #u57 {
   position:absolute;
   left:2px;
-  top:8px;
+  top:0px;
   width:115px;
   word-wrap:break-word;
 }
