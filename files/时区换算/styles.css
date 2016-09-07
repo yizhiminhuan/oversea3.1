@@ -118,8 +118,9 @@
 #u8 {
   position:absolute;
   left:-275px;
-  top:-32px;
+  top:-8px;
   width:100px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u9 {
@@ -143,8 +144,9 @@
 #u10 {
   position:absolute;
   left:175px;
-  top:-16px;
+  top:-8px;
   width:100px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u11 {
