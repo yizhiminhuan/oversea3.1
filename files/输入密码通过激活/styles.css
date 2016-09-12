@@ -106,7 +106,7 @@
   position:absolute;
   left:157px;
   top:660px;
-  width:298px;
+  width:120px;
   height:80px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
@@ -117,13 +117,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
+  width:120px;
   height:80px;
 }
 #u7 {
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
+  width:120px;
   white-space:nowrap;
 }
